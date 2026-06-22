@@ -32,6 +32,7 @@ const Login = () => {
     }
   };
 
+  
   return (
     <div className="w-screen h-screen text-white bg-slate-900 flex items-center justify-center text-lg">
       <div className="w-2/5 h-2/5 bg-slate-950 gap-4 flex items-center justify-center rounded-2xl">
